@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 96 + Oval 97 + Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="地圖---初始狀態" sketch:type="MSArtboardGroup" transform="translate(-684.000000, -136.000000)">
+            <g id="Oval-96-+-傳統藝術設計概論-2" sketch:type="MSLayerGroup" transform="translate(653.000000, 139.000000)">
+                <g id="Oval-96-+-Oval-97-+-Shape" transform="translate(34.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-96" stroke="#232323" stroke-width="2" fill-opacity="0.799999952" fill="#363636" cx="33" cy="33" rx="30" ry="30"></ellipse>
+                    <ellipse id="Oval-97" stroke="#000000" stroke-width="5" opacity="0.200000003" cx="33" cy="33" rx="33" ry="33"></ellipse>
+                    <path d="M45.59584,34.28432 L34.16224,34.28432 L34.16224,22.85024 L33.20224,22.85024 L33.20224,34.28432 L21.76864,34.28432 L21.76864,35.24432 L33.20224,35.24432 L33.20224,46.67792 L34.16224,46.67792 L34.16224,35.24432 L45.59584,35.24432 L45.59584,34.28432 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
